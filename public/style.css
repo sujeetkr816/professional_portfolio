@@ -354,33 +354,7 @@ section{
     width: 100%;
 }
 
-/* .projects .box-container{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-wrap: wrap;
-    padding: 2rem 0;
-}
 
-.projects .box-container .box{
-    height: 20rem;
-    height: 26rem;
-    border-radius: 1rem;
-    margin: 2rem;
-    overflow: hidden;
-    cursor: pointer;
-}
-
-.projects .box-container .box img{
-    height: 100%;
-    width: 100%;
-    object-fit: cover;
-
-}
-
-.projects .box-container .box:hover img{
-    transform: scale(1.2);
-} */
 
 
 .work-list{
@@ -464,18 +438,7 @@ section{
     /* background: var(--yellow); */
 }
 
-/* .layer i{
-    top: 1.5rem;
-    left: -2.5rem;
-    height: 5rem;
-    width: 5rem;
-    border-radius: 50%;
-    line-height: 5rem;
-    text-align: center;
-    font-size: 2rem;
-    color: #fff;
-    background: var(--yellow);
-} */
+
 
 
 .work:hover img{
@@ -642,23 +605,10 @@ form input , form textarea{
     font-size: 18px;
     border-radius: 6px;
 }
-#ele {
-    color: rgb(168, 173, 160);
+#element {
+    color: rgb(170,107,228);
     font-size: 200%;
 
 }
 
-/* 
-.top{
-    position: fixed;
-    bottom: 50rem;
-    right: 2rem;
-    z-index: 100;
-    display: none;
-} */
 
-
-/* .top img{
-    height: 50%;
-    width: 50%;
-} */
